@@ -98,3 +98,7 @@
 5. showRankDB(self)
     * self.rankList에서 점수를 내림차순 기준으로 정렬한 rankDB라는 리스트 생성
     * text에 rankDB를 형식에 맞게 대입하여 리턴
+
+### words.txt과 rankDB.txt
+------------
+랭크 데이터베이스와 단어 사전
